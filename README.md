@@ -1,0 +1,1 @@
+This repository contains Conholdate for .NET documentation.
