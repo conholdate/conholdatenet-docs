@@ -78,7 +78,6 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Cells for .NET Free Support Forum](https://forum.aspose.com/c/cells)
 - [Aspose.Cells for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
-## **Aspose.Email for .NET**
 {{% alert color="primary" %}} 
 
 ![Aspose.Email for .NET](aspose-email-net.png)
