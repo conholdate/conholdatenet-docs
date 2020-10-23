@@ -17,10 +17,10 @@ GroupDocs.Annotation for .NET API allows developers to seamlessly enhance their 
 ## **GroupDocs.Annotation for .NET Resources**
 Following are the links to some useful resources you may need to accomplish your tasks.
 
-- [GroupDocs.Annotation for .NET Online Documentation](/annotation/net/)
-- [GroupDocs.Annotation for .NET Features](/annotation/net/features-overview/)
-- [GroupDocs.Annotation for .NET Limitations](https://docs.groupdocs.com/display/annotationnet/Evaluation+Limitations+and+Licensing+of+GroupDocs.Annotation)
-- [GroupDocs.Annotation for .NET Release Notes](https://docs.groupdocs.com/display/annotationnet/Release+Notes)
+- [GroupDocs.Annotation for .NET Online Documentation](https://docs.groupdocs.com/annotation/net/)
+- [GroupDocs.Annotation for .NET Features](https://docs.groupdocs.com/annotation/net/features-overview/)
+- [GroupDocs.Annotation for .NET Limitations](https://docs.groupdocs.com/annotation/net/evaluation-limitations-and-licensing-of-groupdocs-annotation/)
+- [GroupDocs.Annotation for .NET Release Notes](https://docs.groupdocs.com/annotation/net/release-notes/)
 - [GroupDocs.Annotation for .NET Product Page](https://products.groupdocs.com/annotation/net)
 - [Install GroupDocs.Annotation for .NET NuGet Package](https://www.nuget.org/packages/GroupDocs.Annotation/)
 - [GroupDocs.Annotation for .NET API Reference Guide](https://apireference.groupdocs.com/net/annotation)
