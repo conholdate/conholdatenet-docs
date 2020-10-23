@@ -7,7 +7,7 @@ weight: 10
 
 {{% alert color="primary" %}} 
 
-**![ Aspose.Words for .NET](home_1.png)**
+**![ Aspose.Words for .NET](aspose-words.png)**
 
 **Welcome to Aspose.Words for .NET** 
 
@@ -33,7 +33,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}} 
 
-![Aspose.PDF for .NET](home_2.png)
+![Aspose.PDF for .NET](aspose-pdf.png)
 
 **Welcome to the Aspose.PDF for .NET**
 
@@ -56,7 +56,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}} 
 
-**![Aspose.Cells for .NET](home_3.png)**
+**![Aspose.Cells for .NET](aspose-cells.png)**
 
 **Welcome to Aspose.Cells for .NET** 
 
@@ -81,7 +81,7 @@ The following are the links to some useful resources you may need to accomplish 
 ## **Aspose.Email for .NET**
 {{% alert color="primary" %}} 
 
-![Aspose.Email for .NET](home_4.png)
+![Aspose.Email for .NET](aspose-email.png)
 
 **Welcome to Aspose.Email for .NET**
 
@@ -108,7 +108,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 **Welcome to Aspose.Slides for .NET**
 
-![Aspose.Slides for .NET](home_5.png)
+![Aspose.Slides for .NET](aspose-slides.png)
 
 Aspose.Slides for .NET is a Microsoft PowerPoint® management API that enables .NET applications to read and write PowerPoint® documents without using Microsoft PowerPoint®. Aspose.Slides for .NET is the first and only component that provides the functionality to manage PowerPoint® documents. Aspose.Slides for .NET provides a lot of key features such as managing text, shapes, tables & animations, adding audio and video to slides, previewing slides, exporting slides to SVG, PDF format and more.
 
@@ -131,7 +131,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}} 
 
-![Aspose.Imaging for .NET](home_6.png)
+![Aspose.Imaging for .NET](aspose-imaging.png)
 
 **Welcome to Aspose.Imaging for .NET**
 
@@ -158,7 +158,7 @@ The following are the links to some useful resources you may need to enjoy the u
 
 {{% alert color="primary" %}} 
 
-![Aspose.BarCode for .NET](home_7.png)
+![Aspose.BarCode for .NET](aspose-barcode.png)
 
 **Welcome to Aspose.BarCode for .NET** 
 
@@ -181,7 +181,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}} 
 
-![Aspose.Diagram for .NET](home_8.png)
+![Aspose.Diagram for .NET](aspose-diagram.png)
 
 **Welcome to Aspose.Diagram for .NET**
 
@@ -206,7 +206,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}} 
 
-![Aspose.Tasks for .NET](home_9.png)
+![Aspose.Tasks for .NET](aspose-tasks.png)
 
 Aspose.Tasks for .NET is a class library that enables .NET applications to read and write Microsoft Project® files without using Microsoft Project®. It is currently the only .NET component that provides this functionality. Aspose.Tasks for .NET is a mature product that offers stability and flexibility. As with all of the Aspose file management components, Aspose.Tasks for .NET works well with both Win Form and WebForm applications.
 
@@ -231,7 +231,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}} 
 
-![Aspose.OCR for .NET](home_10.png)
+![Aspose.OCR for .NET](aspose-ocr.png)
 
 **Welcome to Aspose.OCR for .NET** 
 
@@ -257,7 +257,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}} 
 
-![Aspose.Note for .NET](home_11.png)
+![Aspose.Note for .NET](aspose-note.png)
 
 [Aspose.Note for .NET](https://products.aspose.com/note/net) is a class library that enables .NET applications to interact with Microsoft Office OneNote programmatically without the software being installed on the server. The Aspose.Note API lets developers read, convert, create, edit and manipulate the content of the Microsoft OneNote file format.
 
@@ -282,7 +282,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 **Welcome to Aspose.CAD for .NET**
 
-<img src="home_12" alt="Aspose.CAD for .NET" style="zoom:50%;" />
+![Aspose.CAD for .NET](aspose-cad.png)
 
 Aspose.CAD for .NET allows developers to convert AutoCAD DWG, DWF and DXF files to PDF and Raster images. It is a native API and does not require AutoCAD or any software to be installed. You can also convert the selected layers and layouts from the AutoCAD files. The conversion to PDF and Raster images is of very high quality.
 
@@ -309,7 +309,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}} 
 
-![Aspose.3D for .NET](home_13.png)
+![Aspose.3D for .NET](aspose-3d.png)
 
 **Welcome to Aspose.3D for .NET API**
 
@@ -334,7 +334,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}} 
 
-![Aspose.HTML for .NET](home_14)
+![Aspose.HTML for .NET](aspose-html.png)
 
 **Welcome to the Aspose.HTML for .NET documentation** 
 
@@ -360,7 +360,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}} 
 
-![Aspose.GIS for .NET](home_15)
+![Aspose.GIS for .NET](aspose-gis.png)
 
 **Welcome to Aspose.GIS for .NET**
 
@@ -383,7 +383,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}} 
 
-**![Aspose.ZIP for .NET](home_16)**
+![Aspose.ZIP for .NET](aspose-zip.png)
 
 **Welcome to Aspose.ZIP for .NET**
 
@@ -408,7 +408,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}} 
 
-**<img src="home_17" alt="Aspose.Page for .NET" style="zoom:50%;" />**
+![Aspose.Page for .NET](aspose-page.png)
 
 **Welcome to the Aspose.Page for .NET**
 
@@ -431,7 +431,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}} 
 
-**![Aspose.PSD for .NET](home_18.png)**
+**![Aspose.PSD for .NET](aspose-psd.png)**
 
 **Welcome to Aspose.PSD for .NET**
 
@@ -458,7 +458,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}} 
 
-**![Aspose.OMR for .NET](home_19.png)**
+**![Aspose.OMR for .NET](aspose-omr.png)**
 
 **Welcome to the Aspose.OMR for .NET** 
 
@@ -480,7 +480,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}} 
 
-![Aspose.PUB for .NET](home_20)
+![Aspose.PUB for .NET](aspose-pub.png)
 
 **Welcome to Aspose.PUB for .NET**
 
@@ -503,7 +503,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}} 
 
-**![Aspose.SVG for .NET](home_21)**
+**![Aspose.SVG for .NET](aspose-svg.png)**
 
 **Welcome to Aspose.SVG for .NET**
 
@@ -527,7 +527,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}} 
 
-**![todo:image_alt_text](home_22.png)**
+**![todo:image_alt_text](aspose-finance.png)**
 
 **Welcome to Aspose.Finance for .NET**
 
@@ -547,7 +547,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}} 
 
-![todo:image_alt_text](home_23)
+![todo:image_alt_text](aspose_drawing.png)
 
 **Welcome to the Aspose.Drawing for .NET**
 
@@ -570,7 +570,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}} 
 
-![todo:image_alt_text](aspose_font_net.png)
+![todo:image_alt_text](aspose-font.png)
 
 **Welcome to the Aspose.Font for .NET**
 
