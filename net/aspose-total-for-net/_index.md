@@ -1,7 +1,5 @@
 ---
 title: "Aspose.Total for .NET"
-type: docs
-url: /aspose-total-for-net/
 aliases: 
     - /net/aspose-words-for-net/
 	- /net/aspose-cells-for-net/
@@ -18,6 +16,8 @@ aliases:
 	- /net/aspose-html-for-net/
 	- /net/aspose-gis-for-net/
 	- /net/aspose-ocr-for-net/
+type: docs
+url: /aspose-total-for-net/
 weight: 10
 ---
 
