@@ -29,6 +29,50 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}} 
 
+![todo:image\_alt\_text](groupdocs-total-for-net_5)
+
+**Welcome to the GroupDocs.Assembly for .NET**
+
+GroupDocs.Assembly for .NET is a document automation and reports generation API designed to create custom documents from templates. This .NET reporting API intelligently assembles the given data with the defined template document and generates output document based on the data source in the same format as of the template document format.
+
+{{% /alert %}} 
+## **GroupDocs.Assembly for .NET Resources**
+Following are the links to some useful resources you may need to accomplish your tasks.
+
+- [GroupDocs.Assembly for .NET Online Documentation](https://docs.groupdocs.com/assembly/net/)
+- [GroupDocs.Assembly for .NET Features](https://docs.groupdocs.com/assembly/net/features-overview/)
+- [GroupDocs.Assembly for .NET Limitations](https://docs.groupdocs.com/assembly/net/evaluation-limitations-and-licensing/)
+- [GroupDocs.Assembly for .NET Release Notes](https://docs.groupdocs.com/assembly/net/release-notes/)
+- [GroupDocs.Assembly for .NET Product Page](https://products.groupdocs.com/assembly/net)
+- [Install GroupDocs.Assembly for .NET NuGet Package](https://www.nuget.org/packages/GroupDocs.Assembly/)
+- [GroupDocs.Assembly for .NET API Reference Guide](https://apireference.groupdocs.com/assembly/net)
+- [GroupDocs.Assembly for .NET Free Support Forum](https://forum.groupdocs.com/c/assembly)
+- [GroupDocs.Assembly for .NET Paid Support Helpdesk](https://helpdesk.groupdocs.com/)
+
+{{% alert color="primary" %}} 
+
+![todo:image\_alt\_text](groupdocs-classification-net.png)
+
+**Welcome to the GroupDocs.Classification for .NET**
+
+GroupDocs.Classification for .NET is a powerful and intuitive library used for texts and documents classification with several taxonomies. Documents could be in various formats,including Microsoft Word and OpenDocument Writer file formats, PDF documents, RTF and TXT. Classification results can be easily customized with multiple and flexible options.
+
+{{% /alert %}} 
+## **GroupDocs.Classification for .NET Resources**
+Following are the links to some useful resources you may need to accomplish your tasks.
+
+- [GroupDocs.Classification for .NET Online Documentation](https://docs.groupdocs.com/classification/net/)
+- [GroupDocs.Classification for .NET Features](https://docs.groupdocs.com/classification/net/features-overview/)
+- [GroupDocs.Classification for .NET Limitations](https://docs.groupdocs.com/classification/net/evaluation-limitations-and-licensing/)
+- [GroupDocs.Classification for .NET Release Notes](https://docs.groupdocs.com/classification/net/release-notes/)
+- [GroupDocs.Classification for .NET Product Page](https://products.groupdocs.com/classification/net)
+- [Install GroupDocs.Classification for .NET NuGet Package](https://www.nuget.org/packages/GroupDocs.Classification/)
+- [GroupDocs.Classification for .NET API Reference Guide](https://apireference.groupdocs.com/classification/net)
+- [GroupDocs.Classification for .NET Free Support Forum](https://forum.groupdocs.com/c/classification)
+- [GroupDocs.Classification for .NET Paid Support Helpdesk](https://helpdesk.groupdocs.com/)
+
+{{% alert color="primary" %}} 
+
 ![todo:image\_alt\_text](groupdocs-total-for-net_3)
 
 **Welcome to the GroupDocs.Comparison for .NET**
@@ -39,13 +83,13 @@ It compares and merges Microsoft Word, Excel, PowerPoint, openDocument ODT, PDF,
 ## **GroupDocs.Comparison for .NET Resources**
 Following are the links to some useful resources you may need to accomplish your tasks.
 
-- [GroupDocs.Comparison for .NET Online Documentation](https://docs.groupdocs.com/display/comparisonnet/)
-- [GroupDocs.Comparison for .NET Features](https://docs.groupdocs.com/display/comparisonnet/Features+Overview)
-- [GroupDocs.Comparison for .NET Limitations](https://docs.groupdocs.com/display/comparisonnet/Evaluation+Limitations+and+Licensing+of+GroupDocs.Comparison)
-- [GroupDocs.Comparison for .NET Release Notes](https://docs.groupdocs.com/display/comparisonnet/Release+Notes)
+- [GroupDocs.Comparison for .NET Online Documentation](https://docs.groupdocs.com/comparison/net/)
+- [GroupDocs.Comparison for .NET Features](https://docs.groupdocs.com/comparison/net/features-overview/)
+- [GroupDocs.Comparison for .NET Limitations](https://docs.groupdocs.com/comparison/net/licensing-and-evaluation-limitations/)
+- [GroupDocs.Comparison for .NET Release Notes](https://docs.groupdocs.com/comparison/net/release-notes/)
 - [GroupDocs.Comparison for .NET Product Page](https://products.groupdocs.com/comparison/net)
 - [Install GroupDocs.Comparison for .NET NuGet Package](https://www.nuget.org/packages/GroupDocs.Comparison/)
-- [GroupDocs.Comparison for .NET API Reference Guide](https://apireference.groupdocs.com/net/comparison)
+- [GroupDocs.Comparison for .NET API Reference Guide](https://apireference.groupdocs.com/comparison/net)
 - [GroupDocs.Comparison for .NET Free Support Forum](https://forum.groupdocs.com/c/comparison)
 - [GroupDocs.Comparison for .NET Paid Support Helpdesk](https://helpdesk.groupdocs.com/)
 
@@ -61,81 +105,15 @@ GroupDocs.Conversion for .NET is an advanced document conversion API developed t
 ## **GroupDocs.Conversion for .NET Resources**
 Following are the links to some useful resources you may need to accomplish your tasks.
 
-- [GroupDocs.Conversion for .NET Online Documentation](https://docs.groupdocs.com/display/conversionnet/)
-- [GroupDocs.Conversion for .NET Features](https://docs.groupdocs.com/display/conversionnet/Features+Overview)
-- [GroupDocs.Conversion for .NET Limitations](https://docs.groupdocs.com/display/conversionnet/Evaluation+Limitations+and+Licensing+of+GroupDocs.Conversion)
-- [GroupDocs.Conversion for .NET Release Notes](https://docs.groupdocs.com/display/conversionnet/Release+Notes)
+- [GroupDocs.Conversion for .NET Online Documentation](https://docs.groupdocs.com/conversion/net/)
+- [GroupDocs.Conversion for .NET Features](https://docs.groupdocs.com/conversion/net/features-overview/)
+- [GroupDocs.Conversion for .NET Limitations](https://docs.groupdocs.com/conversion/net/evaluation-limitations-and-licensing-of-groupdocs-conversion/)
+- [GroupDocs.Conversion for .NET Release Notes](https://docs.groupdocs.com/conversion/net/release-notes/)
 - [GroupDocs.Conversion for .NET Product Page](https://products.groupdocs.com/conversion/net)
 - [Install GroupDocs.Conversion for .NET NuGet Package](https://www.nuget.org/packages/GroupDocs.Conversion/)
-- [GroupDocs.Conversion for .NET API Reference Guide](https://apireference.groupdocs.com/net/conversion)
+- [GroupDocs.Conversion for .NET API Reference Guide](https://apireference.groupdocs.com/conversion/net)
 - [GroupDocs.Conversion for .NET Free Support Forum](https://forum.groupdocs.com/c/conversion)
 - [GroupDocs.Conversion for .NET Paid Support Helpdesk](https://helpdesk.groupdocs.com/)
-
-{{% alert color="primary" %}} 
-
-![todo:image\_alt\_text](groupdocs-total-for-net_5)
-
-**Welcome to the GroupDocs.Assembly for .NET**
-
-GroupDocs.Assembly for .NET is a document automation and reports generation API designed to create custom documents from templates. This .NET reporting API intelligently assembles the given data with the defined template document and generates output document based on the data source in the same format as of the template document format.
-
-{{% /alert %}} 
-## **GroupDocs.Assembly for .NET Resources**
-Following are the links to some useful resources you may need to accomplish your tasks.
-
-- [GroupDocs.Assembly for .NET Online Documentation](https://docs.groupdocs.com/display/assemblynet/)
-- [GroupDocs.](https://docs.groupdocs.com/display/viewernet/Features+Overview)[Assembly ](https://docs.groupdocs.com/display/viewernet/)[for .NET Features](https://docs.groupdocs.com/display/assemblynet/Features+Overview)
-- [GroupDocs.](https://docs.groupdocs.com/display/viewernet/Evaluation+Limitations+and+Licensing+of+GroupDocs.Viewer)[Assembly ](https://docs.groupdocs.com/display/viewernet/)[for .NET Limitations](https://docs.groupdocs.com/display/assemblynet/Evaluation+Limitations+and+Licensing)
-- [GroupDocs.](https://docs.groupdocs.com/display/viewernet/Release+Notes)[Assembly ](https://docs.groupdocs.com/display/viewernet/)[for .NET Release Notes](https://docs.groupdocs.com/display/assemblynet/Release+Notes)
-- [GroupDocs.](https://products.groupdocs.com/viewer/net)[Assembly ](https://docs.groupdocs.com/display/viewernet/)[for .NET Product Page](https://products.groupdocs.com/viewer/net)
-- [Install GroupDocs.](https://www.nuget.org/packages/GroupDocs.Viewer/)[Assembly ](https://docs.groupdocs.com/display/viewernet/)[for .NET NuGet Package](https://www.nuget.org/packages/GroupDocs.Assembly/)
-- [GroupDocs.](https://apireference.groupdocs.com/net/viewer)[Assembly ](https://docs.groupdocs.com/display/viewernet/)[for .NET API Reference Guide](https://apireference.groupdocs.com/net/assembly)
-- [GroupDocs.](https://forum.groupdocs.com/c/viewer)[Assembly ](https://docs.groupdocs.com/display/viewernet/)[for .NET Free Support Forum](https://forum.groupdocs.com/c/assembly)
-- [GroupDocs.](https://helpdesk.groupdocs.com/)[Assembly ](https://docs.groupdocs.com/display/viewernet/)[for .NET Paid Support Helpdesk](https://helpdesk.groupdocs.com/)
-
-{{% alert color="primary" %}} 
-
-![todo:image\_alt\_text](groupdocs-total-for-net_6)
-
-**Welcome to the GroupDocs.Metadata for .NET**
-
-GroupDocs.Metadata for .NET API can be consumed as Metadata viewer for CRUD operations. It helps developers to read, write, edit and remove meta information from all popular document file formats. It gets the file as input, access the file property information and allows the users to perform metadata operations for locating this specific document file easily for future reference.
-
-{{% /alert %}} 
-## **GroupDocs.Metadata for .NET Resources**
-Following are the links to some useful resources you may need to accomplish your tasks.
-
-- [GroupDocs.Metadata for .NET Online Documentation](https://docs.groupdocs.com/display/metadatanet/)
-- [GroupDocs.](https://docs.groupdocs.com/display/viewernet/Features+Overview)[Metadata](https://docs.groupdocs.com/display/viewernet/)[ ](https://docs.groupdocs.com/display/metadatanet/Features+Overview)[for .NET Features](https://docs.groupdocs.com/display/metadatanet/Features+Overview)
-- [GroupDocs.](https://docs.groupdocs.com/display/viewernet/Evaluation+Limitations+and+Licensing+of+GroupDocs.Viewer)[Metadata](https://docs.groupdocs.com/display/viewernet/)[ ](https://docs.groupdocs.com/display/metadatanet/Evaluation+Limitations+and+Licensing)[for .NET Limitations](https://docs.groupdocs.com/display/metadatanet/Evaluation+Limitations+and+Licensing)
-- [GroupDocs.](https://docs.groupdocs.com/display/viewernet/Release+Notes)[Metadata](https://docs.groupdocs.com/display/viewernet/)[ ](https://docs.groupdocs.com/display/metadatanet/Release+Notes)[for .NET Release Notes](https://docs.groupdocs.com/display/metadatanet/Release+Notes)
-- [GroupDocs.](https://products.groupdocs.com/viewer/net)[Metadata](https://docs.groupdocs.com/display/viewernet/)[ ](https://products.groupdocs.com/metadata/net)[for .NET Product Page](https://products.groupdocs.com/metadata/net)
-- [Install GroupDocs.](https://www.nuget.org/packages/GroupDocs.Viewer/)[Metadata](https://docs.groupdocs.com/display/viewernet/)[ ](https://www.nuget.org/packages/GroupDocs.Metadata/)[for .NET NuGet Package](https://www.nuget.org/packages/GroupDocs.Metadata/)
-- [GroupDocs.](https://apireference.groupdocs.com/net/viewer)[Metadata](https://docs.groupdocs.com/display/viewernet/)[ ](https://apireference.groupdocs.com/net/metadata)[for .NET API Reference Guide](https://apireference.groupdocs.com/net/metadata)
-- [GroupDocs.](https://forum.groupdocs.com/c/viewer)[Metadata](https://docs.groupdocs.com/display/viewernet/)[ ](https://forum.groupdocs.com/c/metadata)[ for .NET Free Support Forum](https://forum.groupdocs.com/c/metadata)
-- [GroupDocs.](https://helpdesk.groupdocs.com/)[Metadata](https://docs.groupdocs.com/display/viewernet/)[ ](https://helpdesk.groupdocs.com/)[for .NET Paid Support Helpdesk](https://helpdesk.groupdocs.com/)
-
-{{% alert color="primary" %}} 
-
-![todo:image\_alt\_text](groupdocs-total-for-net_7)
-
-**Welcome to the GroupDocs.Signature for .NET**
-
-GroupDocs.Signature for .NET allows developers to write applications with the ability to significantly sign electronic docs of various file formats. This e-signing API permits the users to add different types of signatures like text, image or digital signatures on electronic documents. The quite captivating fact about the API is, its UI less and independent calls can be made.
-
-{{% /alert %}} 
-## **GroupDocs.Signature for .NET Resources**
-Following are the links to some useful resources you may need to accomplish your tasks.
-
-- [GroupDocs.Signature for .NET Online Documentation](https://docs.groupdocs.com/display/signaturenet/)
-- [GroupDocs.Signature for .NET Features](https://docs.groupdocs.com/display/signaturenet/Features+Overview)
-- [GroupDocs.Signature for .NET Limitations](https://docs.groupdocs.com/display/signaturenet/Evaluation+Limitations+and+Licensing+of+GroupDocs.Signature)
-- [GroupDocs.Signature for .NET Release Notes](https://docs.groupdocs.com/display/signaturenet/Release+Notes)
-- [GroupDocs.Signature for .NET Product Page](https://products.groupdocs.com/signature/net)
-- [Install GroupDocs.Signature for .NET NuGet Package](https://www.nuget.org/packages/GroupDocs.Signature/)
-- [GroupDocs.Signature for .NET API Reference Guide](https://apireference.groupdocs.com/net/signature)
-- [GroupDocs.Signature for .NET Free Support Forum](https://forum.groupdocs.com/c/signature)
-- [GroupDocs.Signature for .NET Paid Support Helpdesk](https://helpdesk.groupdocs.com/)
 
 {{% alert color="primary" %}} 
 
@@ -149,37 +127,59 @@ GroupDocs.Editor for .NET is a powerful document editing API using HTML. API can
 ## **GroupDocs.Editor for .NET Resources**
 Following are the links to some useful resources you may need to accomplish your tasks.
 
-- [GroupDocs.Editor for .NET Online Documentation](https://docs.groupdocs.com/display/editornet/)
-- [GroupDocs.Editor for .NET Features](https://docs.groupdocs.com/display/editornet/Features+Overview)
-- [GroupDocs.Editor for .NET Limitations](https://docs.groupdocs.com/display/editornet/Evaluation+Limitations+and+Licensing+of+GroupDocs.Editor)
-- [GroupDocs.Editor for .NET Release Notes](https://docs.groupdocs.com/display/editornet/Release+Notes)
+- [GroupDocs.Editor for .NET Online Documentation](https://docs.groupdocs.com/editor/net/)
+- [GroupDocs.Editor for .NET Features](https://docs.groupdocs.com/editor/net/features-overview/)
+- [GroupDocs.Editor for .NET Limitations](https://docs.groupdocs.com/editor/net/evaluation-limitations-and-licensing-of-groupdocs-editor/)
+- [GroupDocs.Editor for .NET Release Notes](https://docs.groupdocs.com/editor/net/release-notes/)
 - [GroupDocs.Editor for .NET Product Page](https://products.groupdocs.com/editor/net)
 - [Install GroupDocs.Editor for .NET NuGet Package](https://www.nuget.org/packages/GroupDocs.Editor/)
-- [GroupDocs.Editor for .NET API Reference Guide](https://apireference.groupdocs.com/net/editor)
+- [GroupDocs.Editor for .NET API Reference Guide](https://apireference.groupdocs.com/editor/net)
 - [GroupDocs.Editor for .NET Free Support Forum](https://forum.groupdocs.com/c/editor)
 - [GroupDocs.Editor for .NET Paid Support Helpdesk](https://helpdesk.groupdocs.com/)
 
 {{% alert color="primary" %}} 
 
-![todo:image\_alt\_text](groupdocs-total-for-net_9)
+![todo:image\_alt\_text](groupdocs-merget-net)
 
-**Welcome to the GroupDocs.Search for .NET**
+**Welcome to the GroupDocs.Merger for .NET**
 
-GroupDocs.Search for .NET is a fascinating document search API. It extracts text and metadata from documents and performs advanced searching and indexing operations on the basis of fuzzy and synonym algorithms. API also supports full-text search. Information retrieval on the basis of full-text search is based on indexes. All documents having at least one match in phrases, para or words will be listed as a result.
+GroupDocs.Merger for .NET allows trimming and swapping of pages. It also manages document protection. Moreover, API allows to merge two documents of same format into single.
 
 {{% /alert %}} 
-## **GroupDocs.Search for .NET Resources**
+## **GroupDocs.Merger for .NET Resources**
 Following are the links to some useful resources you may need to accomplish your tasks.
 
-- [GroupDocs.Search for .NET Online Documentation](https://docs.groupdocs.com/display/searchnet/)
-- [GroupDocs.](https://docs.groupdocs.com/display/viewernet/Features+Overview)[Search ](https://docs.groupdocs.com/display/viewernet/)[for .NET Features](https://docs.groupdocs.com/display/searchnet/Features+Overview)
-- [GroupDocs.](https://docs.groupdocs.com/display/viewernet/Evaluation+Limitations+and+Licensing+of+GroupDocs.Viewer)[Search ](https://docs.groupdocs.com/display/viewernet/)[for .NET Limitations](https://docs.groupdocs.com/display/searchnet/Evaluation+Limitations+and+Licensing)
-- [GroupDocs.](https://docs.groupdocs.com/display/viewernet/Release+Notes)[Search ](https://docs.groupdocs.com/display/viewernet/)[for .NET Release Notes](https://docs.groupdocs.com/display/searchnet/Release+Notes)
-- [GroupDocs.](https://products.groupdocs.com/viewer/net)[Search ](https://docs.groupdocs.com/display/viewernet/)[for .NET Product Page](https://products.groupdocs.com/search/net)
-- [Install GroupDocs.](https://www.nuget.org/packages/GroupDocs.Viewer/)[Search ](https://docs.groupdocs.com/display/viewernet/)[for .NET NuGet Package](https://www.nuget.org/packages/GroupDocs.Search/)
-- [GroupDocs.](https://apireference.groupdocs.com/net/viewer)[Search ](https://docs.groupdocs.com/display/viewernet/)[for .NET API Reference Guide](https://apireference.groupdocs.com/net/search)
-- [GroupDocs.](https://forum.groupdocs.com/c/viewer)[Search ](https://docs.groupdocs.com/display/viewernet/)[for .NET Free Support Forum](https://forum.groupdocs.com/c/search)
-- [GroupDocs.](https://helpdesk.groupdocs.com/)[Search ](https://docs.groupdocs.com/display/viewernet/)[for .NET Paid Support Helpdesk](https://helpdesk.groupdocs.com/)
+- [GroupDocs.Merger for .NET Online Documentation](https://docs.groupdocs.com/merger/net/)
+- [GroupDocs.Merger for .NET Features](https://docs.groupdocs.com/merger/net/features-overview/)
+- [GroupDocs.Merger for .NET Limitations](https://docs.groupdocs.com/merger/net/evaluation-limitations-and-licensing-of-groupdocs-merger/)
+- [GroupDocs.Merger for .NET Release Notes](https://docs.groupdocs.com/merger/net/release-notes/)
+- [GroupDocs.Merger for .NET Product Page](https://products.groupdocs.com/merger/net)
+- [Install GroupDocs.Merger for .NET NuGet Package](https://www.nuget.org/packages/GroupDocs.Merger/)
+- [GroupDocs.Merger for .NET API Reference Guide](https://apireference.groupdocs.com/merger/net)
+- [GroupDocs.Merger for .NET Free Support Forum](https://forum.groupdocs.com/c/merger)
+- [GroupDocs.Merger for .NET Paid Support Helpdesk](https://helpdesk.groupdocs.com/)
+
+{{% alert color="primary" %}} 
+
+![todo:image\_alt\_text](groupdocs-total-for-net_6)
+
+**Welcome to the GroupDocs.Metadata for .NET**
+
+GroupDocs.Metadata for .NET API can be consumed as Metadata viewer for CRUD operations. It helps developers to read, write, edit and remove meta information from all popular document file formats. It gets the file as input, access the file property information and allows the users to perform metadata operations for locating this specific document file easily for future reference.
+
+{{% /alert %}} 
+## **GroupDocs.Metadata for .NET Resources**
+Following are the links to some useful resources you may need to accomplish your tasks.
+
+- [GroupDocs.Metadata for .NET Online Documentation](https://docs.groupdocs.com/metadata/net/)
+- [GroupDocs.Metadata for .NET Features](https://docs.groupdocs.com/metadata/net/features-overview/)
+- [GroupDocs.Metadata for.NET Limitations](https://docs.groupdocs.com/metadata/net/evaluation-limitations-and-licensing/)
+- [GroupDocs.Metadata for .NET Release Notes](https://docs.groupdocs.com/metadata/net/release-notes/)
+- [GroupDocs.Metadata for .NET Product Page](https://products.groupdocs.com/metadata/net)
+- [Install GroupDocs.Metadata for .NET NuGet Package](https://www.nuget.org/packages/GroupDocs.Metadata/)
+- [GroupDocs.Metadata for .NET API Reference Guide](https://apireference.groupdocs.com/metadata/net)
+- [GroupDocs.Metadata for .NET Free Support Forum](https://forum.groupdocs.com/c/metadata)
+- [GroupDocs.Metadata for .NET Paid Support Helpdesk](https://helpdesk.groupdocs.com/)
 
 {{% alert color="primary" %}} 
 
@@ -193,37 +193,81 @@ GroupDocs.Parser is a convenient text extractor API that permits users to extrac
 ## **GroupDocs.Parser for .NET Resources**
 Following are the links to some useful resources you may need to accomplish your tasks.
 
-- [GroupDocs.Parser for .NET Online Documentation](https://docs.groupdocs.com/display/parsernet/)
-- [GroupDocs.Parser for .NET Features](https://docs.groupdocs.com/display/parsernet/Features+Overview)
-- [GroupDocs.Parser for .NET Limitations](https://docs.groupdocs.com/display/parsernet/Evaluation+Limitations+and+Licensing)
-- [GroupDocs.Parser for .NET Release Notes](https://docs.groupdocs.com/display/parsernet/Release+Notes)
+- [GroupDocs.Parser for .NET Online Documentation](https://docs.groupdocs.com/parser/net/)
+- [GroupDocs.Parser for .NET Features](https://docs.groupdocs.com/parser/net/features-overview/)
+- [GroupDocs.Parser for .NET Limitations](https://docs.groupdocs.com/parser/net/evaluation-limitations-and-licensing/)
+- [GroupDocs.Parser for .NET Release Notes](https://docs.groupdocs.com/parser/net/release-notes/)
 - [GroupDocs.Parser for .NET Product Page](https://products.groupdocs.com/parser/net)
 - [Install GroupDocs.Parser for .NET NuGet Package](https://www.nuget.org/packages/GroupDocs.Parser/)
-- [GroupDocs.Parser for .NET API Reference Guide](https://apireference.groupdocs.com/net/parser)
+- [GroupDocs.Parser for .NET API Reference Guide](https://apireference.groupdocs.com/parser/net)
 - [GroupDocs.Parser for .NET Free Support Forum](https://forum.groupdocs.com/c/parser)
 - [GroupDocs.Parser for .NET Paid Support Helpdesk](https://helpdesk.groupdocs.com/)
 
 {{% alert color="primary" %}} 
 
-![todo:image\_alt\_text](groupdocs-total-for-net_11)
+![todo:image\_alt\_text](groupdocs-redaction-net.png)
 
-**Welcome to the GroupDocs.Watermark for .NET**
+**Welcome to the GroupDocs.Redaction for .NET**
 
-GroupDocs.Watermark is an API for adding watermarks to the documents of different formats. It provides the effective watermarking methods that allow you to add watermarks that are hard to be automatically removed by third-party tools. It also allows you to search and remove previously added watermarks of popular types (including watermarks added by third-party tools) in a document. The API provides straightforward and easy to use set of methods to add, search, and remove watermarks in supported file formats.
+GroupDocs.Redaction for .NET is an API for removing sensitive and classified information from the documents of different file formats. The API provides a single format-independent interface for removing sensitive and classified information from the documents. Using the API you can remove sensitive information and content from the document using different redaction methods and save the document in its original format and create a sanitized PDF document with raster images of original pages.
 
 {{% /alert %}} 
-## **GroupDocs.Watermark for .NET Resources**
+## **GroupDocs.Redaction for .NET Resources**
 Following are the links to some useful resources you may need to accomplish your tasks.
 
-- [GroupDocs.Watermark for .NET Online Documentation](https://docs.groupdocs.com/display/watermarknet/)
-- [GroupDocs.Watermark for .NET Features](https://docs.groupdocs.com/display/watermarknet/Features+Overview)
-- [GroupDocs.Watermark for .NET Limitations](https://docs.groupdocs.com/display/watermarknet/Evaluation+Limitations+and+Licensing)
-- [GroupDocs.Watermark for .NET Release Notes](https://docs.groupdocs.com/display/watermarknet/Release+Notes)
-- [GroupDocs.Watermark for .NET Product Page](https://products.groupdocs.com/watermark/net)
-- [Install GroupDocs.Watermark for .NET NuGet Package](https://www.nuget.org/packages/GroupDocs.Watermark/)
-- [GroupDocs.Watermark for .NET API Reference Guide](https://apireference.groupdocs.com/net/watermark)
-- [GroupDocs.Watermark for .NET Free Support Forum](https://forum.groupdocs.com/c/watermark)
-- [GroupDocs.Watermark for .NET Paid Support Helpdesk](https://helpdesk.groupdocs.com/)
+- [GroupDocs.Parser for .NET Online Documentation](https://docs.groupdocs.com/redaction/net/)
+- [GroupDocs.Parser for .NET Features](https://docs.groupdocs.com/redaction/net/features-overview/)
+- [GroupDocs.Parser for .NET Limitations](https://docs.groupdocs.com/redaction/net/evaluation-limitations-and-licensing/)
+- [GroupDocs.Parser for .NET Release Notes](https://docs.groupdocs.com/redaction/net/release-notes/)
+- [GroupDocs.Parser for .NET Product Page](https://products.groupdocs.com/redaction/net)
+- [Install GroupDocs.Parser for .NET NuGet Package](https://www.nuget.org/packages/GroupDocs.Redaction/)
+- [GroupDocs.Parser for .NET API Reference Guide](https://apireference.groupdocs.com/redaction/net)
+- [GroupDocs.Parser for .NET Free Support Forum](https://forum.groupdocs.com/c/redaction)
+- [GroupDocs.Parser for .NET Paid Support Helpdesk](https://helpdesk.groupdocs.com/)
+
+{{% alert color="primary" %}} 
+
+![todo:image\_alt\_text](groupdocs-total-for-net_9)
+
+**Welcome to the GroupDocs.Search for .NET**
+
+GroupDocs.Search for .NET is a fascinating document search API. It extracts text and metadata from documents and performs advanced searching and indexing operations on the basis of fuzzy and synonym algorithms. API also supports full-text search. Information retrieval on the basis of full-text search is based on indexes. All documents having at least one match in phrases, para or words will be listed as a result.
+
+{{% /alert %}} 
+## **GroupDocs.Search for .NET Resources**
+Following are the links to some useful resources you may need to accomplish your tasks.
+
+- [GroupDocs.Search for .NET Online Documentation](https://docs.groupdocs.com/search/net/)
+- [GroupDocs.Search for .NET Features](https://docs.groupdocs.com/search/net/features-overview/)
+- [GroupDocs.Search for .NET Limitations](https://docs.groupdocs.com/search/net/evaluation-limitations-and-licensing/)
+- [GroupDocs.Search for .NET Release Notes](https://docs.groupdocs.com/search/net/release-notes/)
+- [GroupDocs.Search for .NET Product Page](https://products.groupdocs.com/search/net)
+- [Install GroupDocs.Search for .NET NuGet Package](https://www.nuget.org/packages/GroupDocs.Search/)
+- [GroupDocs.Search for .NET API Reference Guide](https://apireference.groupdocs.com/search/net)
+- [GroupDocs.Search for .NET Free Support Forum](https://forum.groupdocs.com/c/search)
+- [GroupDocs.Search for .NET Paid Support Helpdesk](https://helpdesk.groupdocs.com/)
+
+{{% alert color="primary" %}} 
+
+![todo:image\_alt\_text](groupdocs-total-for-net_7)
+
+**Welcome to the GroupDocs.Signature for .NET**
+
+GroupDocs.Signature for .NET allows developers to write applications with the ability to significantly sign electronic docs of various file formats. This e-signing API permits the users to add different types of signatures like text, image or digital signatures on electronic documents. The quite captivating fact about the API is, its UI less and independent calls can be made.
+
+{{% /alert %}} 
+## **GroupDocs.Signature for .NET Resources**
+Following are the links to some useful resources you may need to accomplish your tasks.
+
+- [GroupDocs.Signature for .NET Online Documentation](https://docs.groupdocs.com/signature/net/)
+- [GroupDocs.Signature for .NET Features](https://docs.groupdocs.com/signature/net/features-overview/)
+- [GroupDocs.Signature for .NET Limitations](https://docs.groupdocs.com/signature/net/evaluation-limitations-and-licensing-of-groupdocs-signature/)
+- [GroupDocs.Signature for .NET Release Notes](https://docs.groupdocs.com/signature/net/release-notes/)
+- [GroupDocs.Signature for .NET Product Page](https://products.groupdocs.com/signature/net)
+- [Install GroupDocs.Signature for .NET NuGet Package](https://www.nuget.org/packages/GroupDocs.Signature/)
+- [GroupDocs.Signature for .NET API Reference Guide](https://apireference.groupdocs.com/signature/net)
+- [GroupDocs.Signature for .NET Free Support Forum](https://forum.groupdocs.com/c/signature)
+- [GroupDocs.Signature for .NET Paid Support Helpdesk](https://helpdesk.groupdocs.com/)
 
 {{% alert color="primary" %}} 
 
@@ -237,14 +281,35 @@ A powerful document viewer component that allows you to display over 50 document
 ## **GroupDocs.Viewer for .NET Resources**
 Following are the links to some useful resources you may need to accomplish your tasks.
 
-- [GroupDocs.Viewer for .NET Online Documentation](https://docs.groupdocs.com/display/viewernet/)
-- [GroupDocs.Viewer for .NET Features](https://docs.groupdocs.com/display/viewernet/Features+Overview)
-- [GroupDocs.Viewer for .NET Limitations](https://docs.groupdocs.com/display/viewernet/Evaluation+Limitations+and+Licensing+of+GroupDocs.Viewer)
-- [GroupDocs.Viewer for .NET Release Notes](https://docs.groupdocs.com/display/viewernet/Release+Notes)
+- [GroupDocs.Viewer for .NET Online Documentation](https://docs.groupdocs.com/viewer/net/)
+- [GroupDocs.Viewer for .NET Features](https://docs.groupdocs.com/viewer/net/features-overview/)
+- [GroupDocs.Viewer for .NET Limitations](https://docs.groupdocs.com/viewer/net/evaluation-limitations-and-licensing-of-groupdocs-viewer/)
+- [GroupDocs.Viewer for .NET Release Notes](https://docs.groupdocs.com/viewer/net/release-notes/)
 - [GroupDocs.Viewer for .NET Product Page](https://products.groupdocs.com/viewer/net)
 - [Install GroupDocs.Viewer for .NET NuGet Package](https://www.nuget.org/packages/GroupDocs.Viewer/)
-- [GroupDocs.Viewer for .NET API Reference Guide](https://apireference.groupdocs.com/net/viewer)
+- [GroupDocs.Viewer for .NET API Reference Guide](https://apireference.groupdocs.com/viewer/net)
 - [GroupDocs.Viewer for .NET Free Support Forum](https://forum.groupdocs.com/c/viewer)
 - [GroupDocs.Viewer for .NET Paid Support Helpdesk](https://helpdesk.groupdocs.com/)
 
+{{% alert color="primary" %}} 
+
+![todo:image\_alt\_text](groupdocs-total-for-net_11)
+
+**Welcome to the GroupDocs.Watermark for .NET**
+
+GroupDocs.Watermark is an API for adding watermarks to the documents of different formats. It provides the effective watermarking methods that allow you to add watermarks that are hard to be automatically removed by third-party tools. It also allows you to search and remove previously added watermarks of popular types (including watermarks added by third-party tools) in a document. The API provides straightforward and easy to use set of methods to add, search, and remove watermarks in supported file formats.
+
+{{% /alert %}} 
+## **GroupDocs.Watermark for .NET Resources**
+Following are the links to some useful resources you may need to accomplish your tasks.
+
+- [GroupDocs.Watermark for .NET Online Documentation](https://docs.groupdocs.com/watermark/net/)
+- [GroupDocs.Watermark for .NET Features](https://docs.groupdocs.com/watermark/net/features-overview/)
+- [GroupDocs.Watermark for .NET Limitations](https://docs.groupdocs.com/watermark/net/evaluation-limitations-and-licensing/)
+- [GroupDocs.Watermark for .NET Release Notes](https://docs.groupdocs.com/watermark/net/release-notes/)
+- [GroupDocs.Watermark for .NET Product Page](https://products.groupdocs.com/watermark/net)
+- [Install GroupDocs.Watermark for .NET NuGet Package](https://www.nuget.org/packages/GroupDocs.Watermark/)
+- [GroupDocs.Watermark for .NET API Reference Guide](https://apireference.groupdocs.com/watermark/net)
+- [GroupDocs.Watermark for .NET Free Support Forum](https://forum.groupdocs.com/c/watermark)
+- [GroupDocs.Watermark for .NET Paid Support Helpdesk](https://helpdesk.groupdocs.com/)
 
