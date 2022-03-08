@@ -295,7 +295,6 @@ Following are the links to some useful resources you may need to accomplish your
 
 - [GroupDocs.Viewer for .NET Online Documentation](https://docs.groupdocs.com/viewer/net/)
 - [GroupDocs.Viewer for .NET Features](https://docs.groupdocs.com/viewer/net/features-overview/)
-- [GroupDocs.Viewer for .NET Limitations](https://docs.groupdocs.com/viewer/net/evaluation-limitations-and-licensing-of-groupdocs-viewer/)
 - [GroupDocs.Viewer for .NET Release Notes](https://docs.groupdocs.com/viewer/net/release-notes/)
 - [GroupDocs.Viewer for .NET Product Page](https://products.groupdocs.com/viewer/net)
 - [Install GroupDocs.Viewer for .NET NuGet Package](https://www.nuget.org/packages/GroupDocs.Viewer/)

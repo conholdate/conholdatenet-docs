@@ -210,9 +210,9 @@ Aspose.Diagram takes advantage of advanced functionalities provided by Microsoft
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.Diagram for .NET Online Documentation](https://docs.aspose.com/diargam/net/)
-- [Aspose.Diagram for .NET Features](https://docs.aspose.com/diargam/net/product-overview#RichFeatures)
-- [Aspose.Diagram for .NET Release Notes](https://docs.aspose.com/diargam/net/release-notes/)
+- [Aspose.Diagram for .NET Online Documentation](https://docs.aspose.com/diagram/net/)
+- [Aspose.Diagram for .NET Features](https://docs.aspose.com/diagram/net/feature-list/)
+- [Aspose.Diagram for .NET Release Notes](https://docs.aspose.com/diagram/net/release-notes/)
 - [Aspose.Diagram for .NET Product Page](https://products.aspose.com/diagram/net)
 - [Install Aspose.Diagram for .NET NuGet Package](https://www.nuget.org/packages/Aspose.Diagram/)
 - [Aspose.Diagram for .NET API Reference Guide](https://apireference.aspose.com/net/diagram)
@@ -436,12 +436,12 @@ Aspose.Page is a .NET API and is built to allow developers to work with XPS and 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Page for .NET Online Documentation](https://docs.aspose.com/page/net/)
-- [Aspose.Page for .NET Features](https://docs.aspose.com/page/net/features-list)
+- [Aspose.Page for .NET Features](https://docs.aspose.com/page/net/feature-list/)
 - [Aspose.Page for .NET Release Notes](https://docs.aspose.com/page/net/release-notes/)
 - [Aspose.Page for .NET Product Page](https://products.aspose.com/page/net)
 - [Install Aspose.Page for .NET NuGet Package](https://www.nuget.org/packages/Aspose.Page/)
-- [Aspose.Page for .NET API Reference Guide](https://apireference.aspose.com/net/page)
-- [Aspose.Page for .NET Free Support Forum](https://forum.aspose.com/c/page)
+- [Aspose.Page for .NET API Reference Guide](https://apireference.aspose.com/page/net)
+- [Aspose.Page for .NET Free Support Forum](https://forum.aspose.com/c/page/39)
 - [Aspose.Page for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}} 
@@ -579,8 +579,8 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Drawing for .NET Release Notes](https://docs.aspose.com/drawing/net/release-notes/)
 - [Aspose.Drawing for .NET Product Page](https://products.aspose.com/drawing/net)
 - [Install Aspose.Drawing for .NET NuGet Package](https://www.nuget.org/packages/Aspose.Drawing/)
-- [Aspose.Drawing for .NET API Reference Guide](https://apireference.aspose.com/net/drawing)
-- [Aspose.Drawing for .NET Free Support Forum](https://forum.aspose.com/c/drawing)
+- [Aspose.Drawing for .NET API Reference Guide](https://apireference.aspose.com/drawing/net)
+- [Aspose.Drawing for .NET Free Support Forum](https://forum.aspose.com/c/drawing/44)
 - [Aspose.Drawing for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}} 
@@ -598,10 +598,10 @@ Aspose.Font is a .NET font loading and drawing library. It supports multiple fro
 The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Font for .NET Online Documentation](https://docs.aspose.com/font/net/)
-- [Aspose.Font for .NET Features](https://docs.aspose.com/font/net/features-list)
+- [Aspose.Font for .NET Features](https://docs.aspose.com/font/net/feature-list/)
 - [Aspose.Font for .NET Release Notes](https://docs.aspose.com/font/net/release-notes/)
 - [Aspose.Font for .NET Product Page](https://products.aspose.com/font/net)
 - [Install Aspose.Font for .NET NuGet Package](https://www.nuget.org/packages/Aspose.Font/)
-- [Aspose.Font for .NET API Reference Guide](https://apireference.aspose.com/net/font)
-- [Aspose.Drawing for .NET Free Support Forum](https://forum.aspose.com/c/drawing)
+- [Aspose.Font for .NET API Reference Guide](https://apireference.aspose.com/font/net)
+- [Aspose.Drawing for .NET Free Support Forum](https://forum.aspose.com/c/font/41)
 - [Aspose.Drawing for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
