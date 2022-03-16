@@ -18,6 +18,6 @@ To read barcode from a Word document, [Aspose.BarCode](https://products.aspose.c
 1. Pass the image in the form of the stream to Aspose.BarCode for .NET.
 1. Read the barcode from the image.
 
-Following code show the above mentioned steps in details:
+Following code shows the above mentioned steps in details:
 
 {{< gist "aspose-com-gists" "f801733f5eb53b0777dd38da9db8366a" "Examples-CSharp-TechnicalArticles-RecognizeBarcodeFromWordDocument-RecognizeBarcodeFromWordDocument.cs" >}}

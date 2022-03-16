@@ -27,5 +27,3 @@ After the barcode image is saved to a MemoryStream, we are done with the barcode
 We can create an instance of the Aspose.PDF.Document class by calling its empty constructor. After creating an empty document, we will add a page by calling Document.Pages.Add method. The Barcode image shall be generated in the Memorystream using BarcodeGenerator.Save method with Memorystream as a parameter and BMP as BarCodeImageFormat. The PdfFileMend class object shall be initiated provided by Aspose.PDF to add Barcode image to PDF as shown below.
 
 {{< gist "aspose-com-gists" "f801733f5eb53b0777dd38da9db8366a" "Examples-CSharp-TechnicalArticles-AddBarcodeImageToPDFDocument-AddBarcodeImageToPDFDocument.cs" >}}
-## **Conclusion**
-Aspose.BarCode can easily be integrated with any of the Aspose Components to create rich applications for fulfilling the maximum requirements of the users. The most interesting thing is that any change in Aspose.BarCode version would not affect its integration with other Aspose Components because Aspose.PDF only deals with the barcode image produced by the Aspose.BarCode and not its internal structure.
