@@ -20,4 +20,4 @@ To read barcode from a Word document, [Aspose.BarCode](https://products.aspose.c
 
 Following code shows the above mentioned steps in details:
 
-{{< gist "aspose-com-gists" "f801733f5eb53b0777dd38da9db8366a" "Examples-CSharp-TechnicalArticles-RecognizeBarcodeFromWordDocument-RecognizeBarcodeFromWordDocument.cs" >}}
+{{< gist "aspose-barcode-gists" "264887392b7f0e739d947d0823ba6373" "how-to-read-barcode-from-word-document.cs" >}}
