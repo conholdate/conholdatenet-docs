@@ -14,7 +14,7 @@ PDF documents have become a popular medium for generating reports or other offic
 ## **Create barcode in C#**
 First of all, we will create an object of the BarcodeGenerator class. The desired data to be encoded into a barcode will be assigned to the CodeText property of the BarcodeGenerator object. The Code128 symbology will be selected from the Symbology enumeration and then assigned to the SymbologyType property of the BarcodeGenerator object as shown below:
 
-{{< gist "aspose-com-gists" "f801733f5eb53b0777dd38da9db8366a" "Examples-CSharp-TechnicalArticles-CreatingBarCode-CreatingBarCode.cs" >}}
+{{< gist "aspose-barcode-gists" "03dfdc48b9daeda11c30e89980eacf08" "create-barcode.cs" >}}
 ## **Save barcode to MemoryStream**
 Once the properties of the BarcodeGenerator object are configured then we can create and save the barcode image to a MemoryStream. For this purpose, we will create an instance of MemoryStream and then store the barcode image to this MemoryStream by calling the Save method of the BarcodeGenerator as shown below:
 
