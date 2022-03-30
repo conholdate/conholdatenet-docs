@@ -18,7 +18,7 @@ First of all, we will create an object of the BarcodeGenerator class. The desir
 ## **Save barcode to MemoryStream**
 Once the properties of the BarcodeGenerator object are configured then we can create and save the barcode image to a MemoryStream. For this purpose, we will create an instance of MemoryStream and then store the barcode image to this MemoryStream by calling the Save method of the BarcodeGenerator as shown below:
 
-{{< gist "aspose-barcode-gists" e59b1c13173667ffd779ad2fa0ffcc05" "save-to-stream.cs" >}}
+{{< gist "aspose-barcode-gists" "7455f3a7708b1c39af59763157945fa7" "save-to-stream.cs" >}}
 ## **Create PDF in C#.NET**
 After the barcode image is saved to a MemoryStream, we are done with the barcode image. The only thing now needed is to add this barcode image (saved in the MemoryStream) to the PDF document. So, now it's time to create a PDF document using Aspose.PDF so that we can add this newly generated barcode image to it. Let's start by creating an instance of [Aspose.Pdf.Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) class and then add a page to this document instance as shown below:
 
