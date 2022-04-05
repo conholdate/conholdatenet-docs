@@ -14,7 +14,10 @@ Converting Word documents including DOC or DOCX in .NET is a very common require
 
 ## **Convert DOC DOCX to PDF in C#**
 To convert DOC, DOCX or any Word document to PDF, you can follow these simple steps.
+
 - Load the document
 - Save it as PDF
+
 Following code shows these steps in detail.
+
 {{< gist "aspose-total-gists" "6f37d931e6b19d2d0aab3182eda8546a" "convert-doc-dox-to-pdf.cs" >}}
