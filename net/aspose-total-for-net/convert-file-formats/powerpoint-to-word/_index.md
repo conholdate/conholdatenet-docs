@@ -10,7 +10,7 @@ keywords: "convert powerpoint c#, convert PowerPoint to word c#, convert pptx to
 weight: 10
 ---
 
-How to convert Word (DOC or DOCX) to PowerPoint PPTX? This can easily be done with Aspose.Slides and Aspose.Pdf which are part of Conholdate.Total.
+How to convert PowerPoint PPTX to Word (DOC or DOCX)? This can easily be done with Aspose.Slides and Aspose.Pdf which are part of Conholdate.Total.
 
 ## **Convert PPT PPTX to DOC DOCX in C#**
 To convert PPT, PPTX or any PowerPoint format to Word (DOC or DOCX), you can follow these simple steps.
