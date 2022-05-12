@@ -10,7 +10,7 @@ keywords: "create barcode c#, Create PDF c#, Add barcode to PDf c#, .NET create 
 weight: 10
 ---
 
-PDFs are a popular medium for generating reports or any official documents in many organizations. [Aspose.PDF](https://products.aspose.com/pdf/net) to is part of Conholdate.Total for .NET to generate PDF documents in .NET. It is easy to add barcodes to PDF by integrating Aspose.BarCode with Aspose.PDF. This article briefly describes how to add high-quality barcode images to PDFs.
+PDFs are a popular medium for generating reports or any official documents in many organizations. [Aspose.PDF](https://products.aspose.com/pdf/net) is part of Conholdate.Total for .NET to generate PDF documents in .NET. It is easy to add barcodes to PDF by integrating Aspose.BarCode with Aspose.PDF. This article briefly describes how to add high-quality barcode images to PDFs.
 ## **Create barcode in C#**
 To create a barcode, follow these simple steps:
 
