@@ -1,5 +1,5 @@
 ---
-title: Convert PDF to PDF C#
+title: Convert PDF to HTML C#
 second_title: Conholdate.Total for .NET
 articleTitle: Convert PDF to HTML
 linktitle: Convert PDF to HTML
