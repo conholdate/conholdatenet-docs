@@ -10,7 +10,7 @@ keywords: "convert c#, convert excel to PowerPoint c#, convert xls to pptx c#, c
 weight: 10
 ---
 
-Are you looking for how to convert Excel to PowerPoint PPTX? This can easily be done with Aspose.Cells and Aspose.Pdf which are part of Conholdate.Total.
+Are you looking for how to convert Excel to PowerPoint PPTX? This can easily be done with Aspose.Cells and Aspose.PDF which are part of Conholdate.Total.
 
 ## **Convert XLS XLSX to PPTX in C#**
 To convert XLS, XLSX or any Excel format to PPTX, you can follow the steps below.

@@ -10,7 +10,7 @@ keywords: "convert excel to word c#, convert xls to word c#, convert xlsx to wor
 weight: 10
 ---
 
-Converting your Excel data to Word is an important feature for the reporting apps. This can easily be achieved with a combination of Aspose.Cells and Aspose.Pdf which are part of Conholdate.Total for .NET.
+Converting your Excel data to Word is an important feature for the reporting apps. This can easily be achieved with a combination of Aspose.Cells and Aspose.PDF which are part of Conholdate.Total for .NET.
 
 ## **Convert XLS XLSX to Word in C#**
 To convert XLS, XLSX or any Excel format to DOC or DOCX, you can follow these simple steps.
