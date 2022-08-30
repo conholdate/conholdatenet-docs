@@ -4,7 +4,7 @@ description: "This article explains the usage of GroupDocs.Comparison API (which
 keywords: compare text in two files, Compare text in two files using C#
 type: docs
 url: /compare-text-in-two-files/
-weight: 20
+weight: 40
 ---
 ## File comparison
 

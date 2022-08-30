@@ -4,7 +4,7 @@ description: "This article will explain how to compare two pdf documents using G
 keywords: Compare Two PDF Documents, Compare Two PDF Documents using C#
 type: docs
 url: /compare-two-pdf-documents/
-weight: 20
+weight: 30
 ---
 ## Compare two PDF documents using C#
 

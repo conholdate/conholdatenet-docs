@@ -4,7 +4,7 @@ description: "This article explains how to use GroupDocs.Comparison API (which i
 keywords: Compare Excel Files, Compare Excel Files in C#
 type: docs
 url: /compare-excel-files/
-weight: 50
+weight: 70
 ---
 
 
